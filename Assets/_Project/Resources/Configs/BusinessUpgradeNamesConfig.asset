@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3f4c1b4661abbd40baf8a41fd5b5a36, type: 3}
+  m_Name: BusinessUpgradeNamesConfig
+  m_EditorClassIdentifier: 
+  _businessUpgradeNameDatas:
+  - Name: "\u0411\u0438\u0437\u043D\u0435\u0441 1"
+    UpgradeNames:
+    - "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 1"
+    - "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 2"
+  - Name: "\u0411\u0438\u0437\u043D\u0435\u0441 2"
+    UpgradeNames:
+    - "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 1"
+    - "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 2"
+  - Name: "\u0411\u0438\u0437\u043D\u0435\u0441 3"
+    UpgradeNames:
+    - "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 1"
+    - "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 2"
+  - Name: "\u0411\u0438\u0437\u043D\u0435\u0441 4"
+    UpgradeNames:
+    - "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 1"
+    - "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 2"
+  - Name: "\u0411\u0438\u0437\u043D\u0435\u0441 5"
+    UpgradeNames:
+    - "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 1"
+    - "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 2"
